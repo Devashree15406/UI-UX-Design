@@ -60,3 +60,5 @@ This project presents a clean and immersive AR/VR interface design focusing on i
 
 OUTPUT:
 
+[AR_VR Design Interface.pdf](https://github.com/user-attachments/files/24597337/AR_VR.Design.Interface.pdf)
+
