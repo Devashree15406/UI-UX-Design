@@ -44,3 +44,4 @@ OUTPUT:
 
 Above Mentioned code file of index.html,style.css,script.js
 
+![Image](https://github.com/user-attachments/assets/84e97403-c05a-4847-b027-4afc8fb89f30)
