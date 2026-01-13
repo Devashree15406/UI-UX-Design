@@ -34,3 +34,4 @@ Overall, this redesign represents a major step toward delivering a more polished
 
 OUTPUT:
 
+[REDESIGN A  WEBSITE LANDING  PAGE.pdf](https://github.com/user-attachments/files/24595239/REDESIGN.A.WEBSITE.LANDING.PAGE.pdf)
